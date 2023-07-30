@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Positive Life</string>
+    <string-array name="happy_events">
+        <item>Happy Events List</item>
+        <item>笑い合う友達と楽しい時間</item>
+        <item>美味しい食事を楽しむ</item>
+        <item>お気に入りの本に没頭</item>
+        <item>音楽に包まれてリラックス</item>
+        <item>自然を感じる朝の散歩</item>
+        <item>予期せぬ感謝のメッセージ</item>
+        <item>心に響く名言に感動</item>
+        <item>思わず笑う楽しい会話</item>
+        <item>応援に温かさを感じる</item>
+        <item>目標達成の喜びに満たされる</item>
+        <!-- 他の選択肢を追加 -->
+    </string-array>
+</resources>
