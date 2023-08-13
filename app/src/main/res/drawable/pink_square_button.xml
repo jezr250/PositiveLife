@@ -1,0 +1,4 @@
+  <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/pink" /> <!-- ピンクの背景色を指定 -->
+        <corners android:radius="16dp" /> <!-- 四角形の形状を指定 -->
+  </shape>

@@ -76,4 +76,9 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("SELECTED_DATE", selectedDateForIntent);
         startActivity(intent);
     }
+
+    public void openPrivacyPolicy(View view) {
+        Intent intent = new Intent(this, PrivacyPolicyActivity.class);
+        startActivity(intent);
+    }
 }
